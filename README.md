@@ -17,7 +17,9 @@
 
 <h2>📖 Sobre</h2>
 
- Form made with React and Material UI.
+ MERN STACK
+
+ Form developed with React and Material UI.
 
 ------------
 
