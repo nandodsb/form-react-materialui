@@ -3,11 +3,11 @@
 <img src="./.github/form-react-mui.gif"/>
 </p>
 
-![GitHub top language](https://img.shields.io/github/languages/count/Nandosbx/form-react-materialui?color=00bcd4&&style=for-the-badge&logo=appveyor) 
-![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/form-react-materialui?color=00bcd4&&style=for-the-badge&logo=appveyor) ![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/form-react-materialui?color=00bcd4&&style=for-the-badge&logo=appveyor) ![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/form-react-materialui?color=00bcd4&&style=for-the-badge&logo=appveyor) ![GitHub issues](https://img.shields.io/github/issues/Nandosbx/form-react-materialui?color=00bcd4&&style=for-the-badge&logo=appveyor)
 
 <p align="center">
-<img src=""/>
+
+![GitHub top language](https://img.shields.io/github/languages/count/Nandosbx/form-react-materialui?color=00bcd4&&style=for-the-badge&logo=appveyor) 
+![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/form-react-materialui?color=00bcd4&&style=for-the-badge&logo=appveyor) ![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/form-react-materialui?color=00bcd4&&style=for-the-badge&logo=appveyor) ![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/form-react-materialui?color=00bcd4&&style=for-the-badge&logo=appveyor) ![GitHub issues](https://img.shields.io/github/issues/Nandosbx/form-react-materialui?color=00bcd4&&style=for-the-badge&logo=appveyor)
 </p>
 
 <h2>📖 Sobre</h2>
